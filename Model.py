@@ -1,9 +1,3 @@
-print("change nu 1")
-
-print("change nu 1")
-
-print("change nu 1")
-
-print("change nu 1")
-
-print("change nu 2")
+numbers = 5
+# print(result)
+print(numbers)
